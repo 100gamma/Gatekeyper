@@ -30,8 +30,7 @@ twitter: [@m010ch_](https://twitter.com/m010ch_)
 
 # Resources
 
-#### Books/Talks
-* Open in 30 Seconds
+#### Books
 * High Security Mechanical Locks
 * [Marc Weber Tobias & Matt Fiddler: Open in 30 Seconds](https://www.youtube.com/watch?v=Iba1VOXsteU)
 
